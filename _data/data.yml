@@ -39,36 +39,30 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Golf
           link:
 
-        - item: Snowboarding
+        - item: Coding
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        I am currently a stay at home mother to two beautiful boys. I have been on a career break to take care of my family since 2015.
+        During this time I have freelanced as a photo editor for a successful newborn studio as well as self teaching myself both Python
+        and Java. I hope to break into the technology sector and start a long and prosperous career.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Chemistry
+        university: Heriot-Watt University
+        time: 2006-2009
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+            I studied organic, inorganic and physical chemistry as major topics as well as university level
+            mathematics.
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
