@@ -35,11 +35,7 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: 
-          level: 
 
-        - idiom: 
-          level: 
 
     interests:
       title: Interests
@@ -88,96 +84,75 @@ experiences:
             with the studio's editing style and standards.
             - Responsible for working to tight deadlines whilst maintaining high standards and work ethic.
             - Edited raw images using Adobe Photoshop and Lightroom.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Updated social media platforms.
+            - Researched and wrote photo captions, verifying all info prior to release.
+            - Identified and capitalised on opportunities for maximising return on photographic content.
+            - Maintained awareness of emerging trends and technology related to photography and image editing.
+      - role: Basketball Development Officer
+        time: 2012-2015
+        company: Basketball Scotland, Aberdeen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            Solely responsible for encouraging growth in the sport of basketball across the entirety of the north east of Scotland, including
+            playing, officiating and garnering volunteers within the sport for all age groups.
+            - Participated in meetings to discuss approach and methods in achieving funds.
+            - Developed strategies for short-term and long-term planning to implement objectives.
+            - Trained and supervised volunteers to perform officiating roles within the region.
+            - Implemented training courses for the whole of the North East of Scotland region for coaching, refereeing and table officiating.
+            - Planned and implemented basketball festivals for all levels and ages of players which included securing venues, officals and funding for each event.
+            - Collaborated with partner organisations to acheive success.
+      - role: Police Officer
+        time: 2010 - 2012
+        company: Police Scotland, Aberdeen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Worked in an emergency role working to protect both life and property by enforcing Scottish law. 
+            - Supported rescue efforts in emergency situations by directing traffic, administering emergency medical aid and 
+            removing people from dangerous areas.
+            - Attended emergency situations to secure optimal resolutions in line with force regulations.
+            - Produced comprehensive crime reports with meticulous attention to detail.
+            - Used proven interview techniques to garner reliable evidence and statements from victims, witnesses and suspects.
+            - Diffused potentially volatile situations by employing proven de-escalation and conflict management techniques.
+            - Responded quickly to emergency situations, leading calm and effective negotiations with suspects to diffuse highly charged situations.
 
 certifications:
-      title: Certifications
+      title: 
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: 
+          start: 
+          end: 
+          organization: 
+          credentialid:
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
+
+        - name: 
+          start: 
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+
         
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        I am in the process of completing beginner projects in both Java and Python.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Reverse String
+        link: "https://github.com/murdoch24/Reverse-String"
+        tagline: "Simple Java program that reverses a user-inputted string."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Number Guesser
+        link: "https://github.com/murdoch24/numberGuesser"
+        tagline: "A simple Java program that allows the user to play the number guessing game."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Sudoku Verifier
+        link: "https://github.com/murdoch24/sudokuVerifier"
+        tagline: "A java program that verify pre-entered sudoku grids to see if they are valid - working on implementing this into a full sudoku solver project."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
