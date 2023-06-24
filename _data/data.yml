@@ -141,15 +141,15 @@ projects:
         I am in the process of completing beginner projects in both Java and Python.
     assignments:
       - title: Reverse String
-        link: github.com/murdoch24/Reverse-String
+        link: "https://github.com/murdoch24/Reverse-String"
         tagline: "Simple Java program that reverses a user-inputted string."
 
       - title: Number Guesser
-        link: github.com/murdoch24/numberGuesser
+        link: "https://github.com/murdoch24/numberGuesser"
         tagline: "A simple Java program that allows the user to play the number guessing game."
 
       - title: Sudoku Verifier
-        link: github.com/murdoch24/sudokuVerifier
+        link: "https://github.com/murdoch24/sudokuVerifier"
         tagline: "A java program that verify pre-entered sudoku grids to see if they are valid - working on implementing this into a full sudoku solver project."
 
 
