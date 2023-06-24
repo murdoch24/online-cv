@@ -70,35 +70,24 @@ education:
             mathematics.
             - 
             - 
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: 
+        university: 
+        time: 
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+            - 
+            - 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Photo Editor
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: The Schoolhouse Studio, St Fergus
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            Worked on a freelance basis editing large volumes of newborn photographs to a professional standard in line 
+            with the studio's editing style and standards.
+            - Responsible for working to tight deadlines whilst maintaining high standards and work ethic.
+            - Edited raw images using Adobe Photoshop and Lightroom.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
