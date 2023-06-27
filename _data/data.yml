@@ -132,6 +132,12 @@ projects:
         link: "https://github.com/murdoch24/sudokuVerifier"
         tagline: "A java program that verify pre-entered sudoku grids to see if they are valid - working on implementing this into a full sudoku solver project."
 
+      - title: US States Game
+        link: "https://github.com/murdoch24/sudokuVerifier"
+        tagline: "A python game where the user can attempt to guess all the US states. Has a small user interface and CSV files. They are provided with a list of states to learn based on which
+        ones they missed out."
+        
+
 
 
 
